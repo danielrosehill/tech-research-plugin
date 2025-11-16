@@ -1,0 +1,58 @@
+{
+  "name": "tech-research",
+  "description": "Claude Code plugin for technology research, competitive analysis, technical documentation retrieval, and research workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/tech-research-plugin"
+  },
+  "commands": [
+    "./commands/aliexpress.md",
+    "./commands/amazon-to-israel.md",
+    "./commands/amazon-uk-.md",
+    "./commands/author.md",
+    "./commands/comparisons.md",
+    "./commands/context-organiser.md",
+    "./commands/context-saver.md",
+    "./commands/deep-spec-probe.md",
+    "./commands/deployment-process.md",
+    "./commands/docs-1.md",
+    "./commands/durability-probe.md",
+    "./commands/evaluator.md",
+    "./commands/forms.md",
+    "./commands/gitignore-manager.md",
+    "./commands/hardware-check.md",
+    "./commands/how-to-create-custom-skills.md",
+    "./commands/israel-sources-finder.md",
+    "./commands/mobile.md",
+    "./commands/network-diagram.md",
+    "./commands/notes.md",
+    "./commands/oem-investigator.md",
+    "./commands/open-source-finder.md",
+    "./commands/output-manager.md",
+    "./commands/output-to-context.md",
+    "./commands/pn-checker.md",
+    "./commands/prompt-organiser.md",
+    "./commands/prompt-to-spec.md",
+    "./commands/ranker.md",
+    "./commands/reference.md",
+    "./commands/reputation-checker.md",
+    "./commands/research-lead.md",
+    "./commands/rrp-retrieval.md",
+    "./commands/saas-finder.md",
+    "./commands/software-check.md",
+    "./commands/support-check.md",
+    "./commands/transcript-cleaner.md",
+    "./commands/us-sources-finder.md"
+  ],
+  "keywords": [
+    "research",
+    "tech-research"
+  ]
+}
